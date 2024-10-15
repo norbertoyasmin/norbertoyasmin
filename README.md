@@ -1,6 +1,6 @@
 ## Oii! Eu sou a Yasmin Norberto.
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
--  🌱 Estudando Python
+-  Estudando Análise e Desenvolvimento de Sistemas
+-  Estudando Python
 <div>
   <a href-"https://github.com/norbertoyasmin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=norbertoyasmin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
