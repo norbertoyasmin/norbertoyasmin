@@ -19,3 +19,9 @@
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logocolor=white">
  </a>
 </div>
+
+<div>
+  <a href="https://www.linkedin.com/in/yasmin-norberto-152b9a268" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=write">
+  </a>
+</div>
